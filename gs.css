@@ -1,0 +1,163 @@
+h3.LEILA:hover{
+    font-family: Times New Roman;
+    text-align: left;
+    font-size: 17px;
+    color:green;
+    box-shadow: 6px 9px 13px red;
+    background-color: cyan;
+    text-shadow: 2px 2px #ff0000
+  }
+ 
+  h3.QUEEN:hover {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: yellow;
+    background-color: cyan;
+    text-shadow: 2px 2px #ff0000
+    
+  }
+
+  h3.team:hover {
+    text-decoration-line: overline;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 12px;
+    color: black;
+    background-color: cyan;
+    text-shadow: 2px 2px #ff0000
+    
+
+  }
+
+  h3.team:hover {
+    text-decoration-line: overline;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 12px;
+    color: black;
+    background-color: cyan;
+    text-shadow: 2px 2px #ff0000
+    
+  }
+
+  h3.CELIA:hover {
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    text-align: left;
+    box-shadow: 6px 9px 13px red;
+    background-color: gold;
+    color: black;
+    cursor: pointer;
+    text-shadow: 2px 2px #ff0000
+    
+  }
+  h3.FLETA:hover {
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    text-align: left;
+    box-shadow: 6px 9px 13px red;
+    background-color: gold;
+    color: black;
+    cursor: pointer;
+    
+  }
+  p.song {
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 50px;
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    color: black;
+    text-align: left;
+    
+  }
+  
+  p.speech {
+    text-shadow: 2px 2px 5px grey;
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 35px;
+    font-family:'Times New Roman';
+    font-size: 14px;
+    color: black;
+    text-align: left;
+
+    
+  }
+  p.direction:hover{
+    font-family: "Times";
+    font-size: 14px;
+    color: black;
+    text-align: left;
+    background-color: lightgreen;
+  
+  }
+  
+  table {
+    border: 1px solid red;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: coral;
+    
+    }
+
+  tr:nth-child(even){
+    background-color: paleturquoise;
+    color: darkmagenta;
+  }
+  
+  th,td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 13px;
+    margin: 70px;
+    height: 20px;
+    vertical-align: bottom;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float: center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 13px 15px;
+    text-decoration: none;
+  }
+  
+  ul{
+       list-style-type:none;
+       margin:0;
+       padding:1px;
+       overflow:hidden;
+       background-color:green;
+      }
+    
+    li{
+     float:left;
+    }
+  
+     li a{
+     display: block;
+     color:white;
+     text-align:center;
+     padding:10px 10px;
+     text-decoration:none;
+     }
+    li a:hover {
+     background-color:black;
+     }
